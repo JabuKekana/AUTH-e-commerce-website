@@ -211,7 +211,7 @@ section .title::after{
 
 .home{
     display: flex;
-    background: url("images/Picsart_22-08-06_09-28-36-165.jpg") no-repeat center;
+    background: url("./images/Picsart_22-08-06_09-28-36-165.jpg") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
@@ -274,7 +274,7 @@ section .title::after{
 
 .glasses{
     display: flex;
-    background: url("images/Picsart_22-08-06_09-28-12-626.jpg") no-repeat center;
+    background: url("./images/Picsart_22-08-06_09-28-12-626.jpg") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
@@ -338,7 +338,7 @@ section .title::after{
 
 .handbags{
     display: flex;
-    background: url("images/Picsart_22-08-06_09-27-56-999.jpg") no-repeat center;
+    background: url("./images/Picsart_22-08-06_09-27-56-999.jpg") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
@@ -402,7 +402,7 @@ section .title::after{
 
 .sneakers{
     display: flex;
-    background: url("images/Picsart_22-08-06_09-27-40-510.jpg") no-repeat center;
+    background: url("./images/Picsart_22-08-06_09-27-40-510.jpg") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
@@ -466,7 +466,7 @@ section .title::after{
 
 .socks{
     display: flex;
-    background: url("images/Picsart_22-08-06_09-27-00-693.jpg") no-repeat center;
+    background: url("./images/Picsart_22-08-06_09-27-00-693.jpg") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
